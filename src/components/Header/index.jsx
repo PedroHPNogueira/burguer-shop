@@ -1,6 +1,5 @@
 import React from "react";
 import { Head } from "./style";
-import logo from "../../assets/logo.svg"
 import { Input } from "../../styles/input";
 import { Button } from "../../styles/button";
 
